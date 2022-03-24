@@ -1,0 +1,15 @@
+.header {
+    background-color: #000407;
+    color: #32B9CD;
+    
+}
+.container {
+    display: flex;
+    justify-content: space-between;
+}
+.navbar {
+    display: flex;
+    list-style: none;
+    width: 400px;
+    justify-content: space-between;
+}
