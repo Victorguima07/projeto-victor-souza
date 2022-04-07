@@ -51,6 +51,46 @@ body{
     width: 280px;
     margin-left:20% ;
 }
+.content{
+    height: 412px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background-color: #E5E5E5;
+    align-items: center;
+    
+}
+.content #planeta{
+    width: 150px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.content h4 {
+    text-align: center;
+    color: #E6005A;
+}
+.content p{
+    align-items: center;
+}
+.content #lampada{
+    width: 150px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
+.content #planta{
+    width: 150px;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    
+}
 .footer{
     background-color: #32B9CD;
     color: white;
